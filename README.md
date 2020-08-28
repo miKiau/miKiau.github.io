@@ -19,3 +19,4 @@ Try to reach the end of the level by dodging various obstacles.
 - Additional key-inputs: p or ESC for game menu / pause.
 - Reworked and improved levels' design.
 - Added level info in the playing screen.
+- Added 3 levels. So in total there are 10 levels currently.
